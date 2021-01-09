@@ -46,7 +46,7 @@
     position:absolute;
     margin-top:-930px;
     margin-left:-60px;
-    
+    position:fixed;
 }
 
 .contenttwo {
@@ -98,6 +98,7 @@ img {
     .top {
         margin-top: -891px;
         margin-left:-62px;
+        position:fixed;
     }
     .texts {
         margin-left:25px;
