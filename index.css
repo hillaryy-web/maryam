@@ -50,12 +50,29 @@
 }
 .contenttwo {
     background-image: url("images/89.JPG");
-    height:850px;
+    height:750px;
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
     position: relative;
     background-attachment:fixed;
+}
+.texttwo {
+    position: absolute;
+    margin-top:180px;
+    margin-left:13px;
+}
+.frbook {
+    position:absolute;
+    margin-top:670px;
+    margin-left:-145px;
+    background-color: inherit;
+    color: white;
+    width:160px;
+    text-align:center;
+    height: 50px;
+    border-radius:25px;
+    border:solid black;
 }
 .topp1 {
     background-image: url("images/white.jpg");
